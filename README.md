@@ -345,7 +345,7 @@ nécessaire pour la transformer en réalité, l'herméneutique des textes
 judiciaires[^28] . Cette compréhension spécialisée doit être au cœur du
 jugement.
 
-B. *L'interprétation au sein d'un système conçu pour générer de la violence* {#b.-linterprétation-au-sein-dun-système-conçu-pour-générer-de-la-violence .unnumbered .unnumbered}
+B. *L'interprétation au sein d'un système conçu pour générer de la violence* 
 ----------------------------------------------------------------------------
 
 Dès lors que des violences graves sont en cause, le fossé entre la
