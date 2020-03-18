@@ -1,6 +1,5 @@
 ---
-author:
-- 'Robert M. Cover[^1]'
+author: 'Robert M. Cover[^1]'
 date: '*Yale Law Journal*, Issue 8, Volume 95 (1986)'
 title: Violence and the Word
 ---
@@ -1222,7 +1221,7 @@ de la loi, elle-même.
 
 [^13]: Déclaration d'Indépendance (1776).
 
-[^14]: *Voir* [IV Blackstone's Commentaries]\*92-93
+[^14]: *Voir* [IV Blackstone's Commentaries] 92-93 :
 
 > La punition de la haute trahison en général est très solennelle et
     terrible. 1. Que le délinquant soit amené à la potence, et non pas
